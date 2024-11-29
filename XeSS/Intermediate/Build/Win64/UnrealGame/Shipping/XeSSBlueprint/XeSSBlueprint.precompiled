@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSBlueprint\\Module.XeSSBlueprint.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSBlueprint\\XeSSBlueprintLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSBlueprint\\XeSSBlueprintModule.cpp.obj"
+	]
+}

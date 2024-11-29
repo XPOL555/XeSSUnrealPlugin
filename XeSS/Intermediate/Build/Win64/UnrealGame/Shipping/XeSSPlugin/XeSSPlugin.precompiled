@@ -1,0 +1,11 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\Module.XeSSPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\XeSSHistory.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\XeSSModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\XeSSRHI.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\XeSSSettings.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\XeSSUnreal.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\XeSSPlugin\\XeSSUpscaler.cpp.obj"
+	]
+}
